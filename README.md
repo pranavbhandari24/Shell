@@ -3,8 +3,9 @@
  
 # How to run:
  To run the program type the following commands :
-   make
-   ./msh
+ 
+    make
+    ./msh
  
 # Commands Supported:
  The shell supports all commands in /bin, /usr/bin/ and /usr/local/bin/. Other than that the shell supports the following commands
